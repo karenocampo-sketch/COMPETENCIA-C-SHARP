@@ -1,0 +1,15 @@
+/Users/karenocampo/COMPETENCIA-ING-SOFTWARE/COMPETENCIA-C-SHARP/MiProyecto/bin/Debug/net8.0/MiProyecto
+/Users/karenocampo/COMPETENCIA-ING-SOFTWARE/COMPETENCIA-C-SHARP/MiProyecto/bin/Debug/net8.0/MiProyecto.deps.json
+/Users/karenocampo/COMPETENCIA-ING-SOFTWARE/COMPETENCIA-C-SHARP/MiProyecto/bin/Debug/net8.0/MiProyecto.runtimeconfig.json
+/Users/karenocampo/COMPETENCIA-ING-SOFTWARE/COMPETENCIA-C-SHARP/MiProyecto/bin/Debug/net8.0/MiProyecto.dll
+/Users/karenocampo/COMPETENCIA-ING-SOFTWARE/COMPETENCIA-C-SHARP/MiProyecto/bin/Debug/net8.0/MiProyecto.pdb
+/Users/karenocampo/COMPETENCIA-ING-SOFTWARE/COMPETENCIA-C-SHARP/MiProyecto/obj/Debug/net8.0/MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karenocampo/COMPETENCIA-ING-SOFTWARE/COMPETENCIA-C-SHARP/MiProyecto/obj/Debug/net8.0/MiProyecto.AssemblyInfoInputs.cache
+/Users/karenocampo/COMPETENCIA-ING-SOFTWARE/COMPETENCIA-C-SHARP/MiProyecto/obj/Debug/net8.0/MiProyecto.AssemblyInfo.cs
+/Users/karenocampo/COMPETENCIA-ING-SOFTWARE/COMPETENCIA-C-SHARP/MiProyecto/obj/Debug/net8.0/MiProyecto.csproj.CoreCompileInputs.cache
+/Users/karenocampo/COMPETENCIA-ING-SOFTWARE/COMPETENCIA-C-SHARP/MiProyecto/obj/Debug/net8.0/MiProyecto.sourcelink.json
+/Users/karenocampo/COMPETENCIA-ING-SOFTWARE/COMPETENCIA-C-SHARP/MiProyecto/obj/Debug/net8.0/MiProyecto.dll
+/Users/karenocampo/COMPETENCIA-ING-SOFTWARE/COMPETENCIA-C-SHARP/MiProyecto/obj/Debug/net8.0/refint/MiProyecto.dll
+/Users/karenocampo/COMPETENCIA-ING-SOFTWARE/COMPETENCIA-C-SHARP/MiProyecto/obj/Debug/net8.0/MiProyecto.pdb
+/Users/karenocampo/COMPETENCIA-ING-SOFTWARE/COMPETENCIA-C-SHARP/MiProyecto/obj/Debug/net8.0/MiProyecto.genruntimeconfig.cache
+/Users/karenocampo/COMPETENCIA-ING-SOFTWARE/COMPETENCIA-C-SHARP/MiProyecto/obj/Debug/net8.0/ref/MiProyecto.dll
